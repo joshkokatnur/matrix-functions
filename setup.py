@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["nbformat>=4", "nbconvert>=5", "requests>=2"]
+requirements = []
 
 setup(
     name="matrixfunctions",
-    version="0.0.1",
+    version="0.0.3",
     author="Josh Kokatnur",
     author_email="jkokatnur@gmail.com",
     description="A package that adds matrix functions.",
