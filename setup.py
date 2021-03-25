@@ -7,7 +7,7 @@ requirements = []
 
 setup(
     name="matrixfunctions",
-    version="0.0.3",
+    version="0.0.4",
     author="Josh Kokatnur",
     author_email="jkokatnur@gmail.com",
     description="A package that adds matrix functions.",
